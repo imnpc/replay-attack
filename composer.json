@@ -1,5 +1,5 @@
 {
-    "name": "ruogoo/replay-attack",
+    "name": "imnpc/replay-attack",
     "description": "A laravel package which provide a middleware to prevent replay attack.",
     "type": "library",
     "license": "MIT",
